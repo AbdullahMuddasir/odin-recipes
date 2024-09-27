@@ -6,3 +6,6 @@ Next I did my first commit, trying to understand commit was the hardest part but
 In the second step "recipe page", made another directory with the first recipe and linked in to the home page. pretty simple stuff.
 Did the second commit of step 2
 continuing with step 3 i an image to the second page and applied listing of both uinordered and ordered.
+Committed the 3rd step
+Added 2 new recipes just like the last one with same format.
+Committed the last step
