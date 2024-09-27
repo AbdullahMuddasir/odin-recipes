@@ -1,4 +1,6 @@
 # odin-recipes
 This will be my first project of the odin project.
 It will test all my skills regarding the HTML which I have learned so far.
-test
+Completed the initial structure which included the boilerplate and a heading
+Next I did my first commit, trying to understand commit was the hardest part but I think i did it succesfully
+In the second step "recipe page", made another directory with the first recipe and linked in to the home page. pretty simple stuff.
